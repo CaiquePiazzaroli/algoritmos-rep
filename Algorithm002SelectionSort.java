@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Algorithm001OrdenacaoPorSelecao {
+public class Algorithm002SelectionSort {
 
    
     private static Integer findMinor(List<Integer> numbers) {
