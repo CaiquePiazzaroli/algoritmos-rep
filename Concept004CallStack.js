@@ -1,5 +1,4 @@
 // Example of call Stack
-
 function one() {
     console.log("Function One: Step 1");
     two();
